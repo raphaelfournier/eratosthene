@@ -1,7 +1,7 @@
 # README
 
-Erathosthene is a sieve which prints prime numbers below a given integer n.
+Eratosthene is a sieve which prints prime numbers below a given integer n.
 
 Usage:
 
-    python erathosthene.py n
+    python eratosthene.py n
